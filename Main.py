@@ -5,6 +5,12 @@ import urllib.request
 import urllib.parse
 from datetime import datetime
 
+# Привет, этот бот магазин cookie и не только сделан JealLeal(vzxdev)
+# Если ты не разбираешь в python советую не чего не трогать
+# Чтобы загрузить куки оптом запиши куки в строчку в файле cookies.txt.
+# Данный код раньше использовался в нашем боте
+# По всем вопросам - https://t.me/HelpVoixBot 
+
 TOKEN = '7568390894:AAELswDagoZKnQAGznKwLg49dD6jEsq4OUU'
 API_URL = f'https://api.telegram.org/bot{TOKEN}/'
 
