@@ -2,6 +2,14 @@ import os
 import json
 import requests
 from colorama import Fore, init, Back, Style
+
+# Привет, этот бот магазин cookie и не только сделан JealLeal(vzxdev)
+# Если ты не разбираешь в python советую не чего не трогать
+# Чтобы загрузить куки оптом запиши куки в строчку в файле cookies.txt.
+# Данный код раньше использовался в нашем боте
+# По всем вопросам - https://t.me/HelpVoixBot 
+
+
 # Открываем файл с куками
 valid = 0
 invalid = 0
