@@ -11,7 +11,7 @@ from datetime import datetime
 # Данный код раньше использовался в нашем боте
 # По всем вопросам - https://t.me/HelpVoixBot 
 
-TOKEN = '7568390894:AAELswDagoZKnQAGznKwLg49dD6jEsq4OUU'
+TOKEN = 'ВАШ ТОКЕН!'
 API_URL = f'https://api.telegram.org/bot{TOKEN}/'
 
 # База данных
