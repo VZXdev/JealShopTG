@@ -4,24 +4,7 @@
       "username": "Give_Me_Dollar",
       "balance": 28231832,
       "cart": [],
-      "orders": [
-        {
-          "name": "Товар 1",
-          "price": 100,
-          "file": "files/1prod.txt"
-        },
-        {
-          "name": "Товар 1",
-          "price": 100,
-          "file": "files/1prod.txt"
-        },
-        {
-          "name": "Товар 1",
-          "price": 100,
-          "file": "files/1prod.txt",
-          "filename": "test.json"
-        }
-      ]
+      "orders": []
     },
     "5351709202": {
       "username": "broy_tu",
